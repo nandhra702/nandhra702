@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandhra702
 - 👀 I’m interested in learing something that will help me build good projects.(Basically learn) 
-- 💞️ I’m looking to collaborate on anything I can cause Im just starting
+- 💞️ I’m looking to collaborate on anything related to Basic OpenGL in C++.
 - 📫 How to reach me ..
 
 <!---
