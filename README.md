@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @nandhra702
-- 👀 I’m interested in learing something that will help me build good projects.(Basically learn) 
-- 💞️ I’m looking to collaborate on anything related to Basic OpenGL in C++.
-- 📫 How to reach me ..
+- 👋 Hi, I’m @nandhra702 _ I will fill this up later
 
 <!---
 nandhra702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
