@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nandhra702 _ I will fill this up later
+- 👋 Hey there
 
 <!---
 nandhra702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
